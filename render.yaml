@@ -27,7 +27,7 @@ services:
     runtime: static
     rootDir: frontend
     plan: free
-    region: oregon
+    # (region line removed here)
     buildCommand: npm install && npm run build
     staticPublishPath: ./dist
     routes:

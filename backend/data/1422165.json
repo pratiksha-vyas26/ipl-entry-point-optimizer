@@ -1,0 +1,312 @@
+{
+  "meta": {
+    "data_version": "1.1.0",
+    "created": "2024-04-15",
+    "revision": 1
+  },
+  "info": {
+    "balls_per_over": 6,
+    "city": "Bengaluru",
+    "dates": ["2024-04-15"],
+    "event": {
+      "name": "Indian Premier League",
+      "match_number": 30
+    },
+    "gender": "male",
+    "match_type": "T20",
+    "season": "2024",
+    "teams": ["Sunrisers Hyderabad", "Royal Challengers Bengaluru"],
+    "venue": "M Chinnaswamy Stadium, Bengaluru",
+    "outcome": {
+      "winner": "Sunrisers Hyderabad",
+      "by": { "runs": 25 }
+    }
+  },
+  "innings": [
+    {
+      "team": "Sunrisers Hyderabad",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            { "batter": "TM Head", "bowler": "Will Jacks", "runs": { "batter": 4, "extras": 0, "total": 4 } },
+            { "batter": "TM Head", "bowler": "Will Jacks", "runs": { "batter": 1, "extras": 0, "total": 1 } },
+            { "batter": "Abhishek Sharma", "bowler": "Will Jacks", "runs": { "batter": 0, "extras": 0, "total": 0 } },
+            { "batter": "Abhishek Sharma", "bowler": "Will Jacks", "runs": { "batter": 6, "extras": 0, "total": 6 } },
+            { "batter": "Abhishek Sharma", "bowler": "Will Jacks", "runs": { "batter": 1, "extras": 0, "total": 1 } },
+            { "batter": "TM Head", "bowler": "Will Jacks", "runs": { "batter": 4, "extras": 0, "total": 4 } }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            { "batter": "TM Head", "bowler": "Yash Dayal", "runs": { "batter": 6, "extras": 0, "total": 6 } },
+            { "batter": "TM Head", "bowler": "Yash Dayal", "runs": { "batter": 4, "extras": 0, "total": 4 } },
+            { "batter": "TM Head", "bowler": "Yash Dayal", "runs": { "batter": 6, "extras": 0, "total": 6 } },
+            { "batter": "TM Head", "bowler": "Yash Dayal", "runs": { "batter": 0, "extras": 0, "total": 0 } },
+            { "batter": "TM Head", "bowler": "Yash Dayal", "runs": { "batter": 1, "extras": 0, "total": 1 } },
+            { "batter": "Abhishek Sharma", "bowler": "Yash Dayal", "runs": { "batter": 1, "extras": 0, "total": 1 } }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            { "batter": "Abhishek Sharma", "bowler": "Vijaykumar Vyshak", "runs": { "batter": 4, "extras": 0, "total": 4 } },
+            { "batter": "Abhishek Sharma", "bowler": "Vijaykumar Vyshak", "runs": { "batter": 1, "extras": 0, "total": 1 } },
+            { "batter": "TM Head", "bowler": "Vijaykumar Vyshak", "runs": { "batter": 6, "extras": 0, "total": 6 } },
+            { "batter": "TM Head", "bowler": "Vijaykumar Vyshak", "runs": { "batter": 4, "extras": 0, "total": 4 } },
+            { "batter": "TM Head", "bowler": "Vijaykumar Vyshak", "runs": { "batter": 1, "extras": 0, "total": 1 } },
+            { "batter": "Abhishek Sharma", "bowler": "Vijaykumar Vyshak", "runs": { "batter": 0, "extras": 0, "total": 0 } }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            { "batter": "Abhishek Sharma", "bowler": "Lockie Ferguson", "runs": { "batter": 0, "extras": 0, "total": 0 }, "wickets": [{ "kind": "caught", "player_out": "Abhishek Sharma" }] },
+            { "batter": "H Klaasen", "bowler": "Lockie Ferguson", "runs": { "batter": 0, "extras": 0, "total": 0 } },
+            { "batter": "H Klaasen", "bowler": "Lockie Ferguson", "runs": { "batter": 4, "extras": 0, "total": 4 } },
+            { "batter": "H Klaasen", "bowler": "Lockie Ferguson", "runs": { "batter": 1, "extras": 0, "total": 1 } },
+            { "batter": "TM Head", "bowler": "Lockie Ferguson", "runs": { "batter": 4, "extras": 0, "total": 4 } },
+            { "batter": "TM Head", "bowler": "Lockie Ferguson", "runs": { "batter": 6, "extras": 0, "total": 6 } }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            { "batter": "H Klaasen", "bowler": "Karn Sharma", "runs": { "batter": 6, "extras": 0, "total": 6 } },
+            { "batter": "H Klaasen", "bowler": "Karn Sharma", "runs": { "batter": 6, "extras": 0, "total": 6 } },
+            { "batter": "H Klaasen", "bowler": "Karn Sharma", "runs": { "batter": 1, "extras": 0, "total": 1 } },
+            { "batter": "TM Head", "bowler": "Karn Sharma", "runs": { "batter": 6, "extras": 0, "total": 6 } },
+            { "batter": "TM Head", "bowler": "Karn Sharma", "runs": { "batter": 1, "extras": 0, "total": 1 } },
+            { "batter": "H Klaasen", "bowler": "Karn Sharma", "runs": { "batter": 2, "extras": 0, "total": 2 } }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            { "batter": "TM Head", "bowler": "Lockie Ferguson", "runs": { "batter": 4, "extras": 0, "total": 4 } },
+            { "batter": "TM Head", "bowler": "Lockie Ferguson", "runs": { "batter": 6, "extras": 0, "total": 6 } },
+            { "batter": "TM Head", "bowler": "Lockie Ferguson", "runs": { "batter": 4, "extras": 0, "total": 4 } },
+            { "batter": "TM Head", "bowler": "Lockie Ferguson", "runs": { "batter": 1, "extras": 0, "total": 1 } },
+            { "batter": "H Klaasen", "bowler": "Lockie Ferguson", "runs": { "batter": 6, "extras": 0, "total": 6 } },
+            { "batter": "H Klaasen", "bowler": "Lockie Ferguson", "runs": { "batter": 1, "extras": 0, "total": 1 } }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            { "batter": "H Klaasen", "bowler": "Karn Sharma", "runs": { "batter": 6, "extras": 0, "total": 6 } },
+            { "batter": "H Klaasen", "bowler": "Karn Sharma", "runs": { "batter": 1, "extras": 0, "total": 1 } },
+            { "batter": "TM Head", "bowler": "Karn Sharma", "runs": { "batter": 6, "extras": 0, "total": 6 } },
+            { "batter": "TM Head", "bowler": "Karn Sharma", "runs": { "batter": 1, "extras": 0, "total": 1 } },
+            { "batter": "H Klaasen", "bowler": "Karn Sharma", "runs": { "batter": 6, "extras": 0, "total": 6 } },
+            { "batter": "H Klaasen", "bowler": "Karn Sharma", "runs": { "batter": 4, "extras": 0, "total": 4 } }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            { "batter": "TM Head", "bowler": "Vijaykumar Vyshak", "runs": { "batter": 4, "extras": 0, "total": 4 } },
+            { "batter": "TM Head", "bowler": "Vijaykumar Vyshak", "runs": { "batter": 1, "extras": 0, "total": 1 } },
+            { "batter": "H Klaasen", "bowler": "Vijaykumar Vyshak", "runs": { "batter": 6, "extras": 0, "total": 6 } },
+            { "batter": "H Klaasen", "bowler": "Vijaykumar Vyshak", "runs": { "batter": 6, "extras": 0, "total": 6 } },
+            { "batter": "H Klaasen", "bowler": "Vijaykumar Vyshak", "runs": { "batter": 2, "extras": 0, "total": 2 } },
+            { "batter": "H Klaasen", "bowler": "Vijaykumar Vyshak", "runs": { "batter": 1, "extras": 0, "total": 1 } }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            { "batter": "H Klaasen", "bowler": "Lockie Ferguson", "runs": { "batter": 1, "extras": 0, "total": 1 } },
+            { "batter": "TM Head", "bowler": "Lockie Ferguson", "runs": { "batter": 0, "extras": 0, "total": 0 }, "wickets": [{ "kind": "caught", "player_out": "TM Head" }] },
+            { "batter": "AK Markram", "bowler": "Lockie Ferguson", "runs": { "batter": 1, "extras": 0, "total": 1 } },
+            { "batter": "H Klaasen", "bowler": "Lockie Ferguson", "runs": { "batter": 4, "extras": 0, "total": 4 } },
+            { "batter": "H Klaasen", "bowler": "Lockie Ferguson", "runs": { "batter": 0, "extras": 0, "total": 0 } },
+            { "batter": "H Klaasen", "bowler": "Lockie Ferguson", "runs": { "batter": 1, "extras": 0, "total": 1 } }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            { "batter": "H Klaasen", "bowler": "Karn Sharma", "runs": { "batter": 6, "extras": 0, "total": 6 } },
+            { "batter": "H Klaasen", "bowler": "Karn Sharma", "runs": { "batter": 1, "extras": 0, "total": 1 } },
+            { "batter": "AK Markram", "bowler": "Karn Sharma", "runs": { "batter": 4, "extras": 0, "total": 4 } },
+            { "batter": "AK Markram", "bowler": "Karn Sharma", "runs": { "batter": 1, "extras": 0, "total": 1 } },
+            { "batter": "H Klaasen", "bowler": "Karn Sharma", "runs": { "batter": 6, "extras": 0, "total": 6 } },
+            { "batter": "H Klaasen", "bowler": "Karn Sharma", "runs": { "batter": 1, "extras": 0, "total": 1 } }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            { "batter": "H Klaasen", "bowler": "Yash Dayal", "runs": { "batter": 4, "extras": 0, "total": 4 } },
+            { "batter": "H Klaasen", "bowler": "Yash Dayal", "runs": { "batter": 1, "extras": 0, "total": 1 } },
+            { "batter": "AK Markram", "bowler": "Yash Dayal", "runs": { "batter": 4, "extras": 0, "total": 4 } },
+            { "batter": "AK Markram", "bowler": "Yash Dayal", "runs": { "batter": 0, "extras": 0, "total": 0 } },
+            { "batter": "AK Markram", "bowler": "Yash Dayal", "runs": { "batter": 1, "extras": 0, "total": 1 } },
+            { "batter": "H Klaasen", "bowler": "Yash Dayal", "runs": { "batter": 1, "extras": 0, "total": 1 } }
+          ]
+        },
+        {
+          "over": 16,
+          "deliveries": [
+            { "batter": "H Klaasen", "bowler": "Lockie Ferguson", "runs": { "batter": 6, "extras": 0, "total": 6 } },
+            { "batter": "H Klaasen", "bowler": "Lockie Ferguson", "runs": { "batter": 0, "extras": 0, "total": 0 }, "wickets": [{ "kind": "caught", "player_out": "H Klaasen" }] },
+            { "batter": "Abdul Samad", "bowler": "Lockie Ferguson", "runs": { "batter": 4, "extras": 0, "total": 4 } },
+            { "batter": "Abdul Samad", "bowler": "Lockie Ferguson", "runs": { "batter": 6, "extras": 0, "total": 6 } },
+            { "batter": "Abdul Samad", "bowler": "Lockie Ferguson", "runs": { "batter": 1, "extras": 0, "total": 1 } },
+            { "batter": "AK Markram", "bowler": "Lockie Ferguson", "runs": { "batter": 1, "extras": 0, "total": 1 } }
+          ]
+        }
+      ]
+    },
+    {
+      "team": "Royal Challengers Bengaluru",
+      "overs": [
+        {
+          "over": 0,
+          "deliveries": [
+            { "batter": "V Kohli", "bowler": "Abhishek Sharma", "runs": { "batter": 4, "extras": 0, "total": 4 } },
+            { "batter": "V Kohli", "bowler": "Abhishek Sharma", "runs": { "batter": 1, "extras": 0, "total": 1 } },
+            { "batter": "F du Plessis", "bowler": "Abhishek Sharma", "runs": { "batter": 0, "extras": 0, "total": 0 } },
+            { "batter": "F du Plessis", "bowler": "Abhishek Sharma", "runs": { "batter": 6, "extras": 0, "total": 6 } },
+            { "batter": "F du Plessis", "bowler": "Abhishek Sharma", "runs": { "batter": 1, "extras": 0, "total": 1 } },
+            { "batter": "V Kohli", "bowler": "Abhishek Sharma", "runs": { "batter": 4, "extras": 0, "total": 4 } }
+          ]
+        },
+        {
+          "over": 1,
+          "deliveries": [
+            { "batter": "V Kohli", "bowler": "B Kumar", "runs": { "batter": 6, "extras": 0, "total": 6 } },
+            { "batter": "V Kohli", "bowler": "B Kumar", "runs": { "batter": 4, "extras": 0, "total": 4 } },
+            { "batter": "V Kohli", "bowler": "B Kumar", "runs": { "batter": 0, "extras": 0, "total": 0 } },
+            { "batter": "V Kohli", "bowler": "B Kumar", "runs": { "batter": 1, "extras": 0, "total": 1 } },
+            { "batter": "F du Plessis", "bowler": "B Kumar", "runs": { "batter": 1, "extras": 0, "total": 1 } },
+            { "batter": "V Kohli", "bowler": "B Kumar", "runs": { "batter": 4, "extras": 0, "total": 4 } }
+          ]
+        },
+        {
+          "over": 5,
+          "deliveries": [
+            { "batter": "V Kohli", "bowler": "Mayank Markande", "runs": { "batter": 0, "extras": 0, "total": 0 } },
+            { "batter": "V Kohli", "bowler": "Mayank Markande", "runs": { "batter": 6, "extras": 0, "total": 6 } },
+            { "batter": "V Kohli", "bowler": "Mayank Markande", "runs": { "batter": 0, "extras": 0, "total": 0 } },
+            { "batter": "V Kohli", "bowler": "Mayank Markande", "runs": { "batter": 1, "extras": 0, "total": 1 } },
+            { "batter": "F du Plessis", "bowler": "Mayank Markande", "runs": { "batter": 6, "extras": 0, "total": 6 } },
+            { "batter": "F du Plessis", "bowler": "Mayank Markande", "runs": { "batter": 1, "extras": 0, "total": 1 } }
+          ]
+        },
+        {
+          "over": 6,
+          "deliveries": [
+            { "batter": "V Kohli", "bowler": "Mayank Markande", "runs": { "batter": 0, "extras": 0, "total": 0 }, "wickets": [{ "kind": "bowled", "player_out": "V Kohli" }] },
+            { "batter": "Will Jacks", "bowler": "Mayank Markande", "runs": { "batter": 1, "extras": 0, "total": 1 } },
+            { "batter": "F du Plessis", "bowler": "Mayank Markande", "runs": { "batter": 6, "extras": 0, "total": 6 } },
+            { "batter": "F du Plessis", "bowler": "Mayank Markande", "runs": { "batter": 1, "extras": 0, "total": 1 } },
+            { "batter": "Will Jacks", "bowler": "Mayank Markande", "runs": { "batter": 1, "extras": 0, "total": 1 } },
+            { "batter": "F du Plessis", "bowler": "Mayank Markande", "runs": { "batter": 4, "extras": 0, "total": 4 } }
+          ]
+        },
+        {
+          "over": 7,
+          "deliveries": [
+            { "batter": "F du Plessis", "bowler": "PJ Cummins", "runs": { "batter": 4, "extras": 0, "total": 4 } },
+            { "batter": "F du Plessis", "bowler": "PJ Cummins", "runs": { "batter": 1, "extras": 0, "total": 1 } },
+            { "batter": "Will Jacks", "bowler": "PJ Cummins", "runs": { "batter": 0, "extras": 0, "total": 0 }, "wickets": [{ "kind": "run out", "player_out": "Will Jacks" }] },
+            { "batter": "Rajat Patidar", "bowler": "PJ Cummins", "runs": { "batter": 0, "extras": 0, "total": 0 } },
+            { "batter": "Rajat Patidar", "bowler": "PJ Cummins", "runs": { "batter": 6, "extras": 0, "total": 6 } },
+            { "batter": "Rajat Patidar", "bowler": "PJ Cummins", "runs": { "batter": 1, "extras": 0, "total": 1 } }
+          ]
+        },
+        {
+          "over": 8,
+          "deliveries": [
+            { "batter": "Rajat Patidar", "bowler": "Mayank Markande", "runs": { "batter": 6, "extras": 0, "total": 6 } },
+            { "batter": "Rajat Patidar", "bowler": "Mayank Markande", "runs": { "batter": 1, "extras": 0, "total": 1 } },
+            { "batter": "F du Plessis", "bowler": "Mayank Markande", "runs": { "batter": 1, "extras": 0, "total": 1 } },
+            { "batter": "Rajat Patidar", "bowler": "Mayank Markande", "runs": { "batter": 0, "extras": 0, "total": 0 }, "wickets": [{ "kind": "caught", "player_out": "Rajat Patidar" }] },
+            { "batter": "Saurav Chauhan", "bowler": "Mayank Markande", "runs": { "batter": 0, "extras": 0, "total": 0 }, "wickets": [{ "kind": "lbw", "player_out": "Saurav Chauhan" }] },
+            { "batter": "Dinesh Karthik", "bowler": "Mayank Markande", "runs": { "batter": 0, "extras": 0, "total": 0 } }
+          ]
+        },
+        {
+          "over": 9,
+          "deliveries": [
+            { "batter": "F du Plessis", "bowler": "PJ Cummins", "runs": { "batter": 0, "extras": 0, "total": 0 }, "wickets": [{ "kind": "caught", "player_out": "F du Plessis" }] },
+            { "batter": "Mahipal Lomror", "bowler": "PJ Cummins", "runs": { "batter": 0, "extras": 0, "total": 0 } },
+            { "batter": "Mahipal Lomror", "bowler": "PJ Cummins", "runs": { "batter": 6, "extras": 0, "total": 6 } },
+            { "batter": "Mahipal Lomror", "bowler": "PJ Cummins", "runs": { "batter": 1, "extras": 0, "total": 1 } },
+            { "batter": "Dinesh Karthik", "bowler": "PJ Cummins", "runs": { "batter": 4, "extras": 0, "total": 4 } },
+            { "batter": "Dinesh Karthik", "bowler": "PJ Cummins", "runs": { "batter": 1, "extras": 0, "total": 1 } }
+          ]
+        },
+        {
+          "over": 10,
+          "deliveries": [
+            { "batter": "Dinesh Karthik", "bowler": "Mayank Markande", "runs": { "batter": 6, "extras": 0, "total": 6 } },
+            { "batter": "Dinesh Karthik", "bowler": "Mayank Markande", "runs": { "batter": 4, "extras": 0, "total": 4 } },
+            { "batter": "Dinesh Karthik", "bowler": "Mayank Markande", "runs": { "batter": 1, "extras": 0, "total": 1 } },
+            { "batter": "Mahipal Lomror", "bowler": "Mayank Markande", "runs": { "batter": 6, "extras": 0, "total": 6 } },
+            { "batter": "Mahipal Lomror", "bowler": "Mayank Markande", "runs": { "batter": 0, "extras": 0, "total": 0 } },
+            { "batter": "Mahipal Lomror", "bowler": "Mayank Markande", "runs": { "batter": 1, "extras": 0, "total": 1 } }
+          ]
+        },
+        {
+          "over": 11,
+          "deliveries": [
+            { "batter": "Mahipal Lomror", "bowler": "PJ Cummins", "runs": { "batter": 0, "extras": 0, "total": 0 }, "wickets": [{ "kind": "bowled", "player_out": "Mahipal Lomror" }] },
+            { "batter": "Anuj Rawat", "bowler": "PJ Cummins", "runs": { "batter": 1, "extras": 0, "total": 1 } },
+            { "batter": "Dinesh Karthik", "bowler": "PJ Cummins", "runs": { "batter": 6, "extras": 0, "total": 6 } },
+            { "batter": "Dinesh Karthik", "bowler": "PJ Cummins", "runs": { "batter": 4, "extras": 0, "total": 4 } },
+            { "batter": "Dinesh Karthik", "bowler": "PJ Cummins", "runs": { "batter": 1, "extras": 0, "total": 1 } },
+            { "batter": "Anuj Rawat", "bowler": "PJ Cummins", "runs": { "batter": 1, "extras": 0, "total": 1 } }
+          ]
+        },
+        {
+          "over": 12,
+          "deliveries": [
+            { "batter": "Anuj Rawat", "bowler": "T Natarajan", "runs": { "batter": 1, "extras": 0, "total": 1 } },
+            { "batter": "Dinesh Karthik", "bowler": "T Natarajan", "runs": { "batter": 6, "extras": 0, "total": 6 } },
+            { "batter": "Dinesh Karthik", "bowler": "T Natarajan", "runs": { "batter": 4, "extras": 0, "total": 4 } },
+            { "batter": "Dinesh Karthik", "bowler": "T Natarajan", "runs": { "batter": 6, "extras": 0, "total": 6 } },
+            { "batter": "Dinesh Karthik", "bowler": "T Natarajan", "runs": { "batter": 1, "extras": 0, "total": 1 } },
+            { "batter": "Anuj Rawat", "bowler": "T Natarajan", "runs": { "batter": 1, "extras": 0, "total": 1 } }
+          ]
+        },
+        {
+          "over": 13,
+          "deliveries": [
+            { "batter": "Dinesh Karthik", "bowler": "B Kumar", "runs": { "batter": 4, "extras": 0, "total": 4 } },
+            { "batter": "Dinesh Karthik", "bowler": "B Kumar", "runs": { "batter": 6, "extras": 0, "total": 6 } },
+            { "batter": "Dinesh Karthik", "bowler": "B Kumar", "runs": { "batter": 1, "extras": 0, "total": 1 } },
+            { "batter": "Anuj Rawat", "bowler": "B Kumar", "runs": { "batter": 0, "extras": 0, "total": 0 } },
+            { "batter": "Anuj Rawat", "bowler": "B Kumar", "runs": { "batter": 1, "extras": 0, "total": 1 } },
+            { "batter": "Dinesh Karthik", "bowler": "B Kumar", "runs": { "batter": 4, "extras": 0, "total": 4 } }
+          ]
+        },
+        {
+          "over": 14,
+          "deliveries": [
+            { "batter": "Dinesh Karthik", "bowler": "PJ Cummins", "runs": { "batter": 6, "extras": 0, "total": 6 } },
+            { "batter": "Dinesh Karthik", "bowler": "PJ Cummins", "runs": { "batter": 4, "extras": 0, "total": 4 } },
+            { "batter": "Dinesh Karthik", "bowler": "PJ Cummins", "runs": { "batter": 1, "extras": 0, "total": 1 } },
+            { "batter": "Anuj Rawat", "bowler": "PJ Cummins", "runs": { "batter": 0, "extras": 0, "total": 0 } },
+            { "batter": "Anuj Rawat", "bowler": "PJ Cummins", "runs": { "batter": 1, "extras": 0, "total": 1 } },
+            { "batter": "Dinesh Karthik", "bowler": "PJ Cummins", "runs": { "batter": 1, "extras": 0, "total": 1 } }
+          ]
+        },
+        {
+          "over": 15,
+          "deliveries": [
+            { "batter": "Dinesh Karthik", "bowler": "T Natarajan", "runs": { "batter": 4, "extras": 0, "total": 4 } },
+            { "batter": "Dinesh Karthik", "bowler": "T Natarajan", "runs": { "batter": 6, "extras": 0, "total": 6 } },
+            { "batter": "Dinesh Karthik", "bowler": "T Natarajan", "runs": { "batter": 0, "extras": 0, "total": 0 } },
+            { "batter": "Dinesh Karthik", "bowler": "T Natarajan", "runs": { "batter": 1, "extras": 0, "total": 1 } },
+            { "batter": "Anuj Rawat", "bowler": "T Natarajan", "runs": { "batter": 4, "extras": 0, "total": 4 } },
+            { "batter": "Anuj Rawat", "bowler": "T Natarajan", "runs": { "batter": 1, "extras": 0, "total": 1 } }
+          ]
+        }
+      ]
+    }
+  ]
+}

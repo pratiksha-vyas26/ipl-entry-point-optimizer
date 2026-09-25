@@ -1,0 +1,42 @@
+services:
+  # -------------------------------------------------------------
+  # Backend Web Service (Node.js / Express Cricsheet Engine)
+  # -------------------------------------------------------------
+  - type: web
+    name: ipl-optimizer-backend
+    runtime: node
+    rootDir: backend
+    plan: free
+    region: oregon
+    buildCommand: npm install && npm run build
+    startCommand: npm start
+    healthCheckPath: /api/health
+    envVars:
+      - key: PORT
+        value: 10000
+      - key: NODE_ENV
+        value: production
+      - key: DATA_DIR
+        value: ./data
+
+  # -------------------------------------------------------------
+  # Frontend Dashboard (React + Chart.js + Tailwind CSS)
+  # -------------------------------------------------------------
+  - type: web
+    name: ipl-optimizer-frontend
+    runtime: static
+    rootDir: frontend
+    plan: free
+    region: oregon
+    buildCommand: npm install && npm run build
+    staticPublishPath: ./dist
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
+    envVars:
+      - key: VITE_API_URL
+        fromService:
+          type: web
+          name: ipl-optimizer-backend
+          property: host

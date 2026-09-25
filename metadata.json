@@ -1,0 +1,6 @@
+{
+  "name": "IPL Entry-Point Optimizer",
+  "description": "Advanced T20 batsman entry-point analytics using Cricsheet ball-by-ball IPL data. Evaluates middle-over (7–15) dot-ball %, boundary %, bowling style breakdowns, and Green Zone sweet spots.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

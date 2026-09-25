@@ -19,15 +19,12 @@ services:
       - key: DATA_DIR
         value: ./data
 
-  # -------------------------------------------------------------
+# -------------------------------------------------------------
   # Frontend Dashboard (React + Chart.js + Tailwind CSS)
   # -------------------------------------------------------------
-  - type: web
+  - type: static
     name: ipl-optimizer-frontend
-    runtime: static
     rootDir: frontend
-    plan: free
-    # (region line removed here)
     buildCommand: npm install && npm run build
     staticPublishPath: ./dist
     routes:
